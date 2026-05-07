@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060068310515",
+    "project_id": "lab4-zulaikha-e9490",
+    "storage_bucket": "lab4-zulaikha-e9490.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060068310515:android:20da6c3a073d470a3ee686",
+        "android_client_info": {
+          "package_name": "com.example.lab4_zulaikha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYeZ32J11gukZS0nzOiCcf0I_zWcoh8-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
